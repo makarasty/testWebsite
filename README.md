@@ -1,4 +1,5 @@
 # 🌐 Local Test Server - NGINX Dashboard
+![image](https://github.com/user-attachments/assets/1ed3b446-ec72-44de-8b5e-b479e152fd0a)
 
 Welcome to **Local Test Server**, a simple and elegant web interface designed to provide quick insights into your local or remote NGINX server. This project is ideal for developers, system administrators, or anyone who wants a quick summary of their server's operation at a glance.
 
